@@ -23,26 +23,11 @@
 
 ---
 
-## 🧩 Mindset
-
-> "Not here to be average.
-> Not here to quit halfway."
-
-I build. I fail. I learn. I repeat.
-
----
-
 ## 📈 Goals
 
 * Become a skilled Software Engineer
 * Master development & problem solving
 * Build projects that actually matter
-
----
-
-## 📫 Connect (maybe someday)
-
-Right now, just building silently 🚶‍♂️
 
 ---
 
