@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Arnav
 
-🚀 CSE Student @ VIT Bhopal
+🚀 CSE Student @ VIT Bhopal 2028
 💻 Web Development | C++ | Learning Backend
 🎯 Future Goal: Become a Software Engineer
 
