@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey, I'm Arnav
 
-<!--
-**ETERNAL-ARNAV/ETERNAL-ARNAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 CSE Student @ VIT Bhopal
+💻 Web Development | C++ | Learning Backend
+🎯 Future Goal: Become a Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* I like understanding things deeply, not just using them
+* Currently learning and building step by step
+* Started with web dev, expanding into development & problem solving
+* I believe consistency > motivation
+
+---
+
+## ⚒️ What I'm Working On
+
+* 🌐 Web Development (JS, DOM, backend basics)
+* 📘 Strengthening problem solving
+* ⚙️ Exploring real-world development
+
+---
+
+## 🧩 Mindset
+
+> "Not here to be average.
+> Not here to quit halfway."
+
+I build. I fail. I learn. I repeat.
+
+---
+
+## 📈 Goals
+
+* Become a skilled Software Engineer
+* Master development & problem solving
+* Build projects that actually matter
+
+---
+
+## 📫 Connect (maybe someday)
+
+Right now, just building silently 🚶‍♂️
+
+---
+
+⭐ *Still learning. Still growing. Still not done.*
+
